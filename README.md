@@ -6,7 +6,7 @@
 ---
 ### 👨‍🚀 *** Bio ***
 
-- 🏢 Actualmente trabajo como Arquitecto Corporativo de Soluciones en  **[Swiss Medical Group](https://swissmedical.com.ar)**.
+- 🏢 Actualmente trabajo como **Arquitecto Corporativo de Soluciones** en  **[Swiss Medical Group](https://swissmedical.com.ar)**.
 <!-- - ⚙️ Uso a diario herramientas de ofimatica ``, `.ipynb`, `.ts` and **relevant technologies**. 
 - 🌍 Soy **Flutter Community**.
 - 🌱 Learning all about **Open Source**.
