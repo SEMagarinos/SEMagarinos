@@ -1,0 +1,90 @@
+format = """╭ \
+        $username\
+        $shlvl\
+        $singularity\
+        $kubernetes\
+        $directory\
+        $git_branch\
+        $git_state\
+        $git_status\
+        $hg_branch\
+        $docker_context\
+        $package\
+        $cmake\
+        $dart\
+        $dotnet\
+        $elixir\
+        $elm\
+        $erlang\
+        $golang\
+        $helm\
+        $java\
+        $julia\
+        $nim\
+        $nodejs\
+        $ocaml\
+        $perl\
+        $php\
+        $purescript\
+        $python\
+        $ruby\
+        $rust\
+        $swift\
+        $terraform\
+        $zig\
+        $nix_shell\
+        $conda\
+        $memory_usage\
+        $aws\
+        $gcloud\
+        $env_var\
+        $crystal\
+        $cmd_duration\
+        $custom\
+        $line_break\
+        $jobs\
+        $battery\
+        $time\
+        $status\
+╰ $character"""
+
+[character]
+error_symbol = "[𝝺](bold red)"
+success_symbol = "[𝝺](bold green)"
+
+[cmd_duration]
+min_time = "1000"
+style = "dimmed green"
+
+[dart]
+format = "via [Dart/$version](bold blue)"
+
+[directory]
+truncation_length = 2
+
+[git_branch]
+format = "$symbol [\\[[$branch$tag]($style)\\]]($style)"
+style = "bold purple"
+symbol = ""
+
+[git_status]
+deleted = "x"
+format = '([\[$conflicted$modified$untracked$deleted$renamed$staged$ahead_behind\]]($style))'
+style = "bold purple"
+
+[jobs]
+symbol = "+"
+threshold = 1
+
+[package]
+disabled = false
+display_private = true
+format = "[$version]($style)"
+
+[python]
+format = "via [Python/$version](bold yellow)"
+
+[username]
+format = "[$user]($style) on "
+show_always = true
+style_user = "bold white"
