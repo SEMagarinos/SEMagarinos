@@ -15,7 +15,7 @@
 -->
 
 ---
-<details open>
+<Info open>
 <a href="https://smagarinos.com.ar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEMagarinos&show_icons=true&include_all_commits=true&theme=material-palenight" alt="SEMagarinos's github stats" />
 </a>
@@ -29,4 +29,4 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEMagarinos&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-</details>
+</Info>
