@@ -1,32 +1,14 @@
-### Hi there, I'm [Sebastian!](https://smagarinos.com.ar) 👋
+# 👋 ¡Hola! Soy Sebastián E. Magariños 👨‍🚀
 
-[![header](header.gif)](https://linkedin.com/in/smagarinos)
+**Tech Lead Architect | +15 años de experiencia en IT | Cloud, Automatización y Transformación Digital**
 
+Actualmente lidero iniciativas de arquitectura técnica, con una visión integral que abarca desde la infraestructura física hasta la nube y el software. Tengo más de 15 años diseñando, implementando y evolucionando soluciones tecnológicas en empresas líderes, colaborando entre áreas técnicas y de negocio bajo marcos como TOGAF y metodologías ágiles.
 
----
-### 👨‍🚀 *** Bio ***
+Apasionado por la innovación y el aprendizaje continuo, disfruto acompañar equipos y proyectos que buscan transformar y optimizar el mundo IT.
 
-- 🏢 Actualmente trabajo como **Arquitecto Corporativo de Soluciones** en  **[Swiss Medical Group](https://swissmedical.com.ar)**.
-<!-- - ⚙️ Uso a diario herramientas de ofimatica ``, `.ipynb`, `.ts` and **relevant technologies**. 
-- 🌍 Soy **Flutter Community**.
-- 🌱 Learning all about **Open Source**.
-- 💬 Ask me about **Mobile Development** or... memes?
-- ⚡️ Fun fact: I live ***alone***.
--->
+- **Especialidades:** Cloud (Azure, AWS), Arquitectura Empresarial, Automatización, DevOps, Liderazgo Técnico, Contenerización, Seguridad, Infraestructura, Innovación, +... .
+- **Certificaciones:** Microsoft Azure Fundamentals, Red Hat, Microsoft.
+
+👉 **¿Querés saber más sobre mi perfil profesional o conectar? Visitá mi [LinkedIn](https://www.linkedin.com/in/smagarinos)**
 
 ---
-<Info open>
-<a href="https://smagarinos.com.ar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEMagarinos&show_icons=true&include_all_commits=true&theme=material-palenight" alt="SEMagarinos's github stats" />
-</a>
-<br>
-<a href="https://smagarinos.com.ar">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEMagarinos&layout=compact&theme=material-palenight" />
-</a>
-<br>
-<a href="https://smagarinos.com.ar">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SEMagarinos&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-</Info>
