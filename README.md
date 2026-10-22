@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEMagarinos&label=Visitas%20al%20perfil&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Experiencia-%2B15%20a%C3%B1os-success?style=flat-square&logo=clockify&logoColor=white" alt="+15 años" />
+  <img src="https://img.shields.io/badge/Experiencia-%2B19%20a%C3%B1os-success?style=flat-square&logo=clockify&logoColor=white" alt="+19 años" />
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Argentina-74ACDF?style=flat-square&logo=googlemaps&logoColor=white" alt="Argentina" />
 </p>
 
@@ -25,9 +25,9 @@
 
 ## 👨‍🚀 Sobre mí
 
-**Tech Lead Architect | +15 años de experiencia en IT | Cloud, Automatización y Transformación Digital**
+**Tech Lead Architect | +19 años de experiencia en IT | Cloud, Automatización y Transformación Digital**
 
-Actualmente lidero iniciativas de arquitectura técnica, con una visión integral que abarca desde la infraestructura física hasta la nube y el software. Tengo más de 15 años diseñando, implementando y evolucionando soluciones tecnológicas en empresas líderes, colaborando entre áreas técnicas y de negocio bajo marcos como **TOGAF** y metodologías **ágiles**.
+Actualmente lidero iniciativas de arquitectura técnica, con una visión integral que abarca desde la infraestructura física hasta la nube y el software. Tengo más de 19 años diseñando, implementando y evolucionando soluciones tecnológicas en empresas líderes, colaborando entre áreas técnicas y de negocio bajo marcos como **TOGAF** y metodologías **ágiles**.
 
 Apasionado por la innovación y el aprendizaje continuo, disfruto acompañar equipos y proyectos que buscan transformar y optimizar el mundo IT.
 
